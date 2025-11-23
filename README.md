@@ -23,7 +23,6 @@
 
 ### Programming Languages  
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=database&logoColor=white" height="20"/>

@@ -103,7 +103,7 @@
 - 🎓 **Advanced Technician in Computer Systems & Network Administration** (Sa Palomera, 2021–2023)  
 - 🏫 **42 Programming cursus** (42 Barcelona Fundación Telefónica, 2022–2023)  
 - 💻 **Technician in Microcomputer Systems & Networks** (Sa Palomera, 2018–2020)  
-[![ilopez-g's 42 stats](https://badge.mediaplus.ma/greenbinary/ilopez-g)](https://github.com/oakoudad/badge42)
+[![ilopez-g's 42 stats](https://badge.mediaplus.ma/colorfulwaves/ilopez-g?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 ---
 
 ## 💼 Professional Experience

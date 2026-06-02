@@ -130,9 +130,9 @@
 ---
 
 ## 📂 Featured Projects
-- 🤖 [AI-Trader](https://github.com/LoGo124/ai-trader) → Neural network for stock market prediction  
-- 📊 [DataViz Dashboard](https://github.com/LoGo124/dataviz-dashboard) → Interactive analytics with Python & Plotly  
-- ⚡ [Fintech API](https://github.com/LoGo124/fintech-api) → Backend API for financial simulations using FastAPI  
+- 🤖 
+- 📊 
+- ⚡ 
 
 ---
 

@@ -129,16 +129,7 @@
   <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LoGo124&stats_format=bytes&theme=tokyonight" />
 </a>
 
----
-
-## 📂 Featured Projects
-- 🤖 
-- 📊 
-- ⚡ 
-
----
-
-## 📈 Recent Activity
+## 📈 Recent Activity & Featured Projects
 ### 42
 - Exam Rank 2
 - Born2BeRoot
@@ -150,6 +141,7 @@
 - LoGo124 (Github Profile)
 <br></br>
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=LoGo124&repo=LoGo124&show_owner=true&theme=tokyonight)](https://github.com/LoGo124/LoGo124)
+
 <!--START_SECTION:activity-->
 <!-- Updated automatically with GitHub Actions -->
 <!--END_SECTION:activity-->
@@ -158,11 +150,4 @@
 
 ## 🌐 Connect with me
 <p align="center">
-  📧 <a href="mailto:nacholopezgomez2002@gmail.com">Email me</a><br>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://YOUR-PORTFOLIO.com">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
-  </a>
 </p>

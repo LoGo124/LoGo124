@@ -134,17 +134,26 @@
 </a>
 
 ## 📈 Recent Activity & Featured Projects
-### 42
+### 42 Projects
+---
 - Exam Rank 2
 - Born2BeRoot
 - Python Module 00
 <br></br>
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=LoGo124&repo=Python-Module-00&show_owner=true&theme=tokyonight)](https://github.com/LoGo124/Python-Module-00)
-### Personal
+- push_swap
+<br></br>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=LoGo124&repo=push_swap&show_owner=true&theme=tokyonight)](https://github.com/LoGo124/push_swap)
+### Personal Projects
+---
 - Nando (Private)
 - LoGo124 (Github Profile)
 <br></br>
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=LoGo124&repo=LoGo124&show_owner=true&theme=tokyonight)](https://github.com/LoGo124/LoGo124)
+#### Reinforcement Learning Projects
+---
+- RLStrat for Nando (Private)
+- RLStrat low correlation assets for Nando (Private)
 
 <!--START_SECTION:activity-->
 <!-- Updated automatically with GitHub Actions -->

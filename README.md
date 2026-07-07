@@ -122,10 +122,12 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LoGo124&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoGo124&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+<a href="https://github-stats-extended.vercel.app/api?username=LoGo124&theme=tokyonight">
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=LoGo124&theme=tokyonight" />
+</a>
+<a href="https://github-stats-extended.vercel.app/api/top-langs/?username=LoGo124&stats_format=bytes&theme=tokyonight">
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LoGo124&stats_format=bytes&theme=tokyonight" />
+</a>
 
 ---
 
@@ -137,6 +139,17 @@
 ---
 
 ## 📈 Recent Activity
+### 42
+- Exam Rank 2
+- Born2BeRoot
+- Python Module 00
+<br></br>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=LoGo124&repo=Python-Module-00&show_owner=true&theme=tokyonight)](https://github.com/LoGo124/Python-Module-00)
+### Personal
+- Nando (Private)
+- LoGo124 (Github Profile)
+<br></br>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=LoGo124&repo=LoGo124&show_owner=true&theme=tokyonight)](https://github.com/LoGo124/LoGo124)
 <!--START_SECTION:activity-->
 <!-- Updated automatically with GitHub Actions -->
 <!--END_SECTION:activity-->

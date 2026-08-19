@@ -100,8 +100,8 @@
 ---
 
 ## 🎓 Education & Training
+- <img src="https://img.shields.io/badge/-grey?style=for-the-badge&logo=42" height="20"/> **42 Programming cursus** (42 Barcelona Fundación Telefónica, 2026–current)
 - 🎓 **Advanced Technician in Computer Systems & Network Administration** (Sa Palomera, 2021–2023)  
-- 🏫 **42 Programming cursus** (42 Barcelona Fundación Telefónica, 2022–2023)  
 - 💻 **Technician in Microcomputer Systems & Networks** (Sa Palomera, 2018–2020)
 
 <a href="https://github.com/oakoudad/badge42">

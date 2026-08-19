@@ -140,7 +140,7 @@
 - Born2BeRoot
 - Python Module 05
 <br></br>
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=LoGo124&repo=Python-Module-00&show_owner=true&theme=tokyonight)](https://github.com/LoGo124/Python-Module-05
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=LoGo124&repo=Python-Module-05&show_owner=true&theme=tokyonight)](https://github.com/LoGo124/Python-Module-05)
 ### Personal Projects
 ---
 - Nando (Private)
